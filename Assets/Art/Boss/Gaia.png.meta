@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 848cb99a098431a48a376b86e2537019
+timeCreated: 1473604944
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gaia_Idle1
+    21300002: Gaia_Idle2
+    21300004: Gaia_Idle3
+    21300006: Gaia_Attack1
+    21300008: Gaia_Attack2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gaia_Idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 25}
+        - {x: 42, y: 34}
+        - {x: 39, y: 33}
+        - {x: 25, y: 29}
+        - {x: 24, y: 26}
+        - {x: 25, y: 23}
+        - {x: 29, y: 22}
+        - {x: 25, y: 23}
+        - {x: 23, y: 21}
+        - {x: 24, y: 28}
+        - {x: 29, y: 30}
+        - {x: 32, y: 33}
+        - {x: 45, y: 34}
+        - {x: 46, y: 31}
+        - {x: 49, y: 30}
+        - {x: 52, y: 31}
+        - {x: 66, y: 44}
+        - {x: 67, y: 59}
+        - {x: 67, y: 63}
+        - {x: 61, y: 73}
+        - {x: -58, y: 73}
+        - {x: -68, y: 55}
+        - {x: -68, y: -6}
+        - {x: -67, y: -9}
+        - {x: -40, y: -77}
+        - {x: 48, y: -77}
+        - {x: 67, y: -41}
+        - {x: 67, y: 23}
+        - {x: 58, y: 36}
+    - name: Gaia_Idle2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 73}
+        - {x: -68, y: 53}
+        - {x: -68, y: -23}
+        - {x: -55, y: -77}
+        - {x: -47, y: -77}
+        - {x: -37, y: -64}
+        - {x: -31, y: -56}
+        - {x: -33, y: -62}
+        - {x: -33, y: -73}
+        - {x: -32, y: -77}
+        - {x: 39, y: -77}
+        - {x: 69, y: -33}
+        - {x: 69, y: 56}
+        - {x: 65, y: 73}
+    - name: Gaia_Idle3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 25}
+        - {x: 42, y: 34}
+        - {x: 39, y: 33}
+        - {x: 25, y: 29}
+        - {x: 24, y: 26}
+        - {x: 25, y: 23}
+        - {x: 29, y: 22}
+        - {x: 25, y: 23}
+        - {x: 23, y: 21}
+        - {x: 24, y: 28}
+        - {x: 29, y: 30}
+        - {x: 32, y: 33}
+        - {x: 45, y: 34}
+        - {x: 46, y: 31}
+        - {x: 49, y: 30}
+        - {x: 52, y: 31}
+        - {x: 66, y: 44}
+        - {x: 67, y: 59}
+        - {x: 67, y: 63}
+        - {x: 61, y: 73}
+        - {x: -58, y: 73}
+        - {x: -68, y: 55}
+        - {x: -68, y: -6}
+        - {x: -67, y: -9}
+        - {x: -40, y: -77}
+        - {x: 48, y: -77}
+        - {x: 67, y: -41}
+        - {x: 67, y: 23}
+        - {x: 58, y: 36}
+    - name: Gaia_Attack1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 25}
+        - {x: 42, y: 34}
+        - {x: 39, y: 33}
+        - {x: 25, y: 29}
+        - {x: 24, y: 26}
+        - {x: 25, y: 23}
+        - {x: 29, y: 22}
+        - {x: 25, y: 23}
+        - {x: 23, y: 21}
+        - {x: 24, y: 28}
+        - {x: 29, y: 30}
+        - {x: 32, y: 33}
+        - {x: 45, y: 34}
+        - {x: 46, y: 31}
+        - {x: 49, y: 30}
+        - {x: 52, y: 31}
+        - {x: 66, y: 44}
+        - {x: 67, y: 59}
+        - {x: 67, y: 63}
+        - {x: 61, y: 73}
+        - {x: -58, y: 73}
+        - {x: -68, y: 55}
+        - {x: -68, y: -6}
+        - {x: -67, y: -9}
+        - {x: -40, y: -77}
+        - {x: 48, y: -77}
+        - {x: 67, y: -41}
+        - {x: 67, y: 23}
+        - {x: 58, y: 36}
+    - name: Gaia_Attack2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 25}
+        - {x: 42, y: 34}
+        - {x: 39, y: 33}
+        - {x: 25, y: 29}
+        - {x: 24, y: 26}
+        - {x: 25, y: 23}
+        - {x: 29, y: 22}
+        - {x: 25, y: 23}
+        - {x: 23, y: 21}
+        - {x: 24, y: 28}
+        - {x: 29, y: 30}
+        - {x: 32, y: 33}
+        - {x: 45, y: 34}
+        - {x: 46, y: 31}
+        - {x: 49, y: 30}
+        - {x: 52, y: 31}
+        - {x: 66, y: 44}
+        - {x: 67, y: 59}
+        - {x: 67, y: 63}
+        - {x: 61, y: 73}
+        - {x: -58, y: 73}
+        - {x: -68, y: 55}
+        - {x: -68, y: -6}
+        - {x: -67, y: -9}
+        - {x: -40, y: -77}
+        - {x: 48, y: -77}
+        - {x: 67, y: -41}
+        - {x: 67, y: 23}
+        - {x: 58, y: 36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

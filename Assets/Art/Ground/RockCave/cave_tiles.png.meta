@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: aed1ffcf1d3c3db4fafda5325d010444
+timeCreated: 1473296576
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cave_tiles_0
+    21300002: cave_tiles_1
+    21300004: cave_tiles_2
+    21300006: cave_tiles_3
+    21300008: cave_tiles_4
+    21300010: cave_tiles_5
+    21300012: cave_tiles_6
+    21300014: cave_tiles_7
+    21300016: cave_tiles_8
+    21300018: cave_tiles_9
+    21300020: cave_tiles_10
+    21300022: cave_tiles_11
+    21300024: cave_tiles_12
+    21300026: cave_tiles_13
+    21300028: cave_tiles_14
+    21300030: cave_tiles_15
+    21300032: cave_tiles_16
+    21300034: cave_tiles_17
+    21300036: cave_tiles_18
+    21300038: cave_tiles_19
+    21300040: cave_tiles_20
+    21300042: cave_tiles_21
+    21300044: cave_tiles_22
+    21300046: cave_tiles_23
+    21300048: cave_tiles_24
+    21300050: cave_tiles_25
+    21300052: cave_tiles_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cave_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 173
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 142
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 142
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 142
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 142
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 95
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 111
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
